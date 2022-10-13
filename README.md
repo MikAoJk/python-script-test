@@ -6,10 +6,15 @@ Simple project for testing python
 
 ### Prerequisites
 
-Python installed locally. Check [here](https://www.python.org/downloads/) to install depending on your OS
+Python installed locally on your computer. 
+Check [here](https://www.python.org/downloads/) to install depending on your OS
 
 ### Example on how to run a script
 
+``` bash
+python3 Hello.py
 ```
-python Hello.py
-```
+
+### Contact
+
+Questions and/or feature requests? Please create an [issue](https://github.com/navikt/python-script-test/issues).
